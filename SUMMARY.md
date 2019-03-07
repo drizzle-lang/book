@@ -1,4 +1,15 @@
 # Table of contents
 
-* [Drizzle Docs](README.md)
+* [Notice](README.md)
+* [Drizzle](drizzle.md)
+
+## Syntax
+
+* [Intro](syntax/intro.md)
+* [Datatypes](syntax/datatypes.md)
+* [Operators](syntax/operators.md)
+* [Control](syntax/control.md)
+* [Functions](syntax/functions.md)
+* [Classes](syntax/classes.md)
+* [Credits](syntax/credits.md)
 
