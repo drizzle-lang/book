@@ -2,6 +2,7 @@
 
 * [Notice](README.md)
 * [Drizzle](drizzle.md)
+* [Installation](installation.md)
 
 ## Syntax
 
